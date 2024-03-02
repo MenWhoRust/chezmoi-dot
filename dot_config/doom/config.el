@@ -129,3 +129,5 @@
        :desc "Next problem" "n" #'langtool-goto-next-error
        :desc "Previous problem" "p" #'langtool-goto-previous-error
        :desc "Finish chech" "f" #'langtool-check-done))
+
+
