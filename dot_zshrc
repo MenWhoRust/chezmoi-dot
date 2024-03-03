@@ -120,4 +120,5 @@ export PATH=$PATH:~/.bin
 alias restart-emacs="systemctl restart --user emacs"
 alias ched="chezmoi edit"
 alias chra="chezmoi re-add"
+alias chap="chezmoi apply -v"
 
