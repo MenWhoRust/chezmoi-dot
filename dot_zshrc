@@ -118,4 +118,5 @@ export PATH=$PATH:~/.bin
 # Add RVM to PATH for scripting. Make sure this is the last PATH variable change.
 
 alias restart-emacs="systemctl restart --user emacs"
+alias ched="chezmoi edit"
 
