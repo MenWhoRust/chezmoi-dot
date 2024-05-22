@@ -76,8 +76,6 @@
 ;; You can also try 'gd' (or 'C-c c d') to jump to their definition and see how
 ;; they are implemented.
 
-(setq catppuccin-flavor 'mocha)
-(catppuccin-reload)
 
 (setq gdscript-godot-executable "/home/prdecarvalho/.local/share/Steam/steamapps/common/Godot Engine/godot.x11.opt.tools.64")
 (setq langtool-language-tool-jar "/home/menwhorust/LanguageTool-6.3-stable/languagetool-commandline.jar")
